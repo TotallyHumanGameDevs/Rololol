@@ -1,7 +1,7 @@
 
 # Rololol
 
-![Rololo screenshot 1](https://img.itch.zone/aW1nLzk0NzMzMzQucG5n/315x250%23c/2%2F0AbT.png)
+![Rololo screenshot 1](/images/rololol_anim.gif)
 
 A puzzle game where you roll around a die.
 
